@@ -1,0 +1,6 @@
+path: /Users/baijingyuan/Desktop/audio_data/Official-SSDD-OPEN/BBox_SSDD/voc_style/JPEGImages
+train: /Users/baijingyuan/Desktop/audio_data/Official-SSDD-OPEN/BBox_SSDD/voc_style/JPEGImages_train
+val: /Users/baijingyuan/Desktop/audio_data/Official-SSDD-OPEN/BBox_SSDD/voc_style/JPEGImages_test
+
+names:
+  0: ship

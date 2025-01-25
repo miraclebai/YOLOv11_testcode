@@ -1,0 +1,8 @@
+path: /Users/baijingyuan/jupyterPj/reproducibility/data/sonar_dataset/SCTD_dataset/yolo_dataset
+train: /Users/baijingyuan/jupyterPj/reproducibility/data/sonar_dataset/SCTD_dataset/yolo_dataset/train/images
+val: /Users/baijingyuan/jupyterPj/reproducibility/data/sonar_dataset/SCTD_dataset/yolo_dataset/val/images
+
+names:
+  0: aircraft  
+  1: ship  
+  2: human
